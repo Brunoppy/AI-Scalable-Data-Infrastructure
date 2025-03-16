@@ -1,5 +1,5 @@
 -- SQL for Scalable AI Data Infrastructure
-
+ 
 CREATE TABLE users (
     user_id SERIAL PRIMARY KEY,
     name VARCHAR(255),
