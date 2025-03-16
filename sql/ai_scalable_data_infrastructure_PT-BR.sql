@@ -1,4 +1,4 @@
--- SQL para Infraestrutura de Dados Escalável com IA
+-- SQL para Infraestrutura de Dados Escalável com IA 
 
 CREATE TABLE usuarios (
     id_usuario SERIAL PRIMARY KEY,
