@@ -5,7 +5,7 @@ Este projeto foca em uma **infraestrutura de dados escalável**, integrando **SQ
 
 ## Funcionalidades
 - **Integração SQL & NoSQL** para manipulação avançada de dados.
-- **Armazenamento em Nuvem** (AWS, Azure, GCP) para escalabilidade.
+- **Armazenamento em Nuvem** (AWS, Azure, GCP) para escalabilidade. 
 - **Processamento de Big Data** com consultas otimizadas.
 - **Automação com Python** para análise em tempo real.
 
