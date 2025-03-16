@@ -7,7 +7,7 @@ This project focuses on **scalable data infrastructure** integrating **SQL, NoSQ
 - **Hybrid SQL & NoSQL** integration for advanced data handling.
 - **Cloud-Based Storage** (AWS, Azure, GCP) for scalability.
 - **Big Data Processing** with optimized queries.
-- **Python Automation** for real-time analytics.
+- **Python Automation** for real-time analytics. 
 
 ## Technologies Used
 - **SQL (PostgreSQL, MySQL)**
